@@ -1,5 +1,5 @@
 # british_lottery
-Short games based on the rules of British Lottery
+A short game based on the rules of British Lottery
 I used Python to code this short game. 
 The coding project is part of my Level 3 Gateway Software Development course at Exeter College.
 The goal was to create a short lottery game, using sequencing, iteration and selection.
